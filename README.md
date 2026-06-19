@@ -1,3 +1,7 @@
+# REVISAR ARCHIVO PC3.IPYNB
+
+
+
 # PC3 - Grupo B
 ## Parte II. Recuperacion de datos
 Se utilizó la API pública TheCatAPI mediante el endpoint:
